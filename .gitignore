@@ -1,0 +1,7 @@
+# Project exclude paths
+/eurekaserver/target/
+/feign/target/
+/gateway/target/
+/nativeconfigserver/target/
+/serverconsumer/target/
+/serverprovider/target/
